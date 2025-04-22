@@ -1,3 +1,5 @@
+"use client";
+
 import type React from "react";
 
 import { BarChart3, Clock, Globe, Shield, Smartphone, Zap } from "lucide-react";
