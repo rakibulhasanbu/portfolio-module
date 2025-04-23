@@ -1,3 +1,4 @@
+import React from "react";
 import type { Section } from "../../type";
 
 type Props = {

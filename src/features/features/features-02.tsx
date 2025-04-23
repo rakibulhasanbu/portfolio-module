@@ -1,3 +1,4 @@
+import React from "react";
 import { Props } from "../../type";
 
 const Features02 = ({ data }: Props) => {
